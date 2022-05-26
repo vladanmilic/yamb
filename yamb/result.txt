@@ -1,4 +1,0 @@
-Number of games : 1000
-Result          : 447,881
-Time            : 1,487
-Best game       : 999 724
